@@ -1,0 +1,44 @@
+---
+title: "EDS 215 - Exercise 1"
+author: "Alex Vand"
+date: "8/30/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. ~/
+    (a) ~/Documents/
+        1) ~/Documents/Blue_Shield_of_Ca/
+            - insurance_card.pdf
+            - summary_benefits.pdf
+        2) ~/Documents/Bren/
+            - alexvand24.github.io
+            - unofficial_transcript.pdf
+        3) ~/Documents/EDS_21[2,4,5]/
+            - day[1-5]
+            - evals.docx
+            - sampledata
+            - learngit
+            - mypaper
+            - better-comments
+            - 10min-loop.R.txt
+            - dist
+            - eds215-frew
+            - shell-lesson-data
+        4) ~/Documents/EDS_221/
+            - brown-bear.R
+            - eds212-day[1-9]-interactive
+            - eds212-day[1-9]-activities
+            - noodleturtle
+            - fiddler-crab-sizes
+        5) ~/Documents/'My Music'/
+        6) ~/Documents/'My Pictures'/
+        7) ~/Documents/'My Video'/
+        8) ~/Documents/R/
+        9) ~/Documents/desktop.ini/
+
+
+
