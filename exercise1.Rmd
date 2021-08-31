@@ -1,7 +1,7 @@
 ---
 title: "EDS 215 - Exercise 1"
 author: "Alex Vand"
-date: "8/30/2021"
+date: "2021-08-30"
 output: html_document
 ---
 
@@ -9,36 +9,33 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-1. ~/
-    (a) ~/Documents/
-        1) ~/Documents/Blue_Shield_of_Ca/
-            - insurance_card.pdf
-            - summary_benefits.pdf
-        2) ~/Documents/Bren/
-            - alexvand24.github.io
-            - unofficial_transcript.pdf
-        3) ~/Documents/EDS_21[2,4,5]/
-            - day[1-5]
-            - evals.docx
-            - sampledata
-            - learngit
-            - mypaper
-            - better-comments
-            - 10min-loop.R.txt
-            - dist
-            - eds215-frew
-            - shell-lesson-data
-        4) ~/Documents/EDS_221/
-            - brown-bear.R
-            - eds212-day[1-9]-interactive
-            - eds212-day[1-9]-activities
-            - noodleturtle
-            - fiddler-crab-sizes
-        5) ~/Documents/'My Music'/
-        6) ~/Documents/'My Pictures'/
-        7) ~/Documents/'My Video'/
-        8) ~/Documents/R/
-        9) ~/Documents/desktop.ini/
+- `~/` home folder
+    - `~/Documents/` documents folder
+        - `~/Documents/Blue_Shield_of_Ca/` insurance folder
+            - `insurance_card.pdf` pdf of insurance card
+            - `summary_benefits.pdf` pdf of summary benefits
+        - `~/Documents/Bren/` random Bren forms and documents
+            - `alexvand24.github.io` github repo
+            - `unofficial_transcript.pdf` pdf of undergrad transcript
+        - `~/Documents/EDS_21[2,4,5]/` MEDS various summer classes using indexing
+            - `day[1-5]` R projects
+            - `evals.docx` document for ESCII evaluations
+            - `sampledata` sample data folder
+            - `10min-loop.R.txt` txt file that can act as R script
+            - `dist` folder for installed applications
+            - `eds215-frew` R project for this assignment
+            - `shell-lesson-data` data folder
+        - `~/Documents/EDS_221/` MEDS summer class
+            - `brown-bear.R` R script
+            - `eds212-day[1-9]-interactive` R project
+            - `eds212-day[1-9]-activities` R project
+            - `noodleturtle` R project
+            - `fiddler-crab-sizes` R project
+        - `~/Documents/'My Music'/` empty music folder
+        - `~/Documents/'My Pictures'/` empty pictures folder
+        - `~/Documents/'My Video'/` empty video folder
+        - `~/Documents/R/` empty R folder
+        - `~/Documents/desktop.ini/` determines folder display
 
 
 
